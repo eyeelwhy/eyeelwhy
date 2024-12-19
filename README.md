@@ -1,4 +1,4 @@
-Исәнмесез! My name is Ilya Kabanov
+Исәнмесез! My name is Ilya
 =============================
 
 Junior Developer
