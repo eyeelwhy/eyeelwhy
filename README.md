@@ -6,9 +6,9 @@ Junior Developer
 
 * 🌍  I'm based in Ufa, Republic of Bashkortostan
 * ✉️  You can contact me at [ilyaufawork@gmail.com](mailto:ilyaufawork@gmail.com)
+----------------
 
-### Skills
-
+Skills
 ### Programming Languages
 <p align="left">
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
