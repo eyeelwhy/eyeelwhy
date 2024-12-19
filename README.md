@@ -7,8 +7,6 @@ Junior Developer
 * 🌍  I'm based in Ufa, Republic of Bashkortostan
 * ✉️  You can contact me at [ilyaufawork@gmail.com](mailto:ilyaufawork@gmail.com)
 
-----------------
-
 Skills
 ### Programming Languages
 <p align="left">
